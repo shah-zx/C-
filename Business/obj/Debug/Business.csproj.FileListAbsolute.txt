@@ -1,0 +1,7 @@
+C:\Users\shahnsay\source\repos\Business\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\shahnsay\source\repos\Business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\shahnsay\source\repos\Business\Business\bin\Debug\Business.dll.config
+C:\Users\shahnsay\source\repos\Business\Business\bin\Debug\Business.dll
+C:\Users\shahnsay\source\repos\Business\Business\bin\Debug\Business.pdb
+C:\Users\shahnsay\source\repos\Business\Business\obj\Debug\Business.dll
+C:\Users\shahnsay\source\repos\Business\Business\obj\Debug\Business.pdb
